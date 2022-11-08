@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 3.2,
-          "height": 6.4,
-          "width": 6.4
+          "height": 5.7,
+          "width": 5.7
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "zeichmaschinemain.kicad_pro",
+    "filename": "Zeichenmaschine.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -367,7 +367,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "zeichmaschinemain.step",
+      "step": "Zeichenmaschine.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -412,7 +412,7 @@
   },
   "sheets": [
     [
-      "6f63774a-a8d7-4120-9d37-a82ec35eaafe",
+      "bc550488-600c-4435-8c87-17d31ad3d56f",
       ""
     ]
   ],
